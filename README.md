@@ -55,7 +55,7 @@ response = client.chat(
 This framework is documented in a 3-part LinkedIn series:
 
 - Part 1: [Asimov Wrote Three Laws to Control Robots. Chinese Hackers Broke All Three With a Sentence.](https://www.linkedin.com/pulse/asimov-wrote-three-laws-control-robots-chinese-hackers-mohan-iyer-o0hme)
-- Part 2: The 60-Line YAML That Does What $6 Billion of AI Training Couldn't *(publishing this week)*
+- Part 2: The 60-Line YAML That Does What $6 Billion of AI Training Couldn't *(https://www.linkedin.com/pulse/60-line-yaml-does-what-6-billion-ai-training-couldnt-mohan-iyer-lbnme/)*
 - Part 3: I Red-Teamed My Own AI Safety Framework *(publishing March 15)*
 
 ## Author
